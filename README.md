@@ -1,5 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Data analysis and machine learning projects using Python, focusing on EDA, data cleaning, feature engineering, and building reproducible pipelines.<br><br>🤝 I’m looking to collaborate on<br>Open-source data analytics, data science, and beginner-friendly ML projects where code quality and documentation matter.<br><br>🤝 I’m looking for help with<br>Improving project architecture, writing production-ready code, and understanding real-world use cases in analytics and ML.<br><br>🌱 I’m currently learning<br>Advanced SQL, statistics, machine learning model optimization, and deploying projects using Streamlit and GitHub.<br><br>💬 Ask me about<br>Python, pandas, NumPy, EDA, data visualization, and basic machine learning workflows.<br><br>⚡ Fun fact<br>Simple, well-explained code beats complex, unreadable models every time.
+🔭 I’m currently working on## Hi, I'm Gaurav 👋
+
+I'm a Data Analyst focused on exploratory data analysis,
+SQL-based insights, and clean Python workflows.
+
+### What I do
+- Clean and analyze real-world datasets
+- Perform EDA to uncover patterns and trends
+- Write reproducible, well-documented Python notebooks
+- Use SQL for structured data analysis
+
+### What I'm building
+- End-to-end data analysis projects
+- SQL + Python case studies
+- Analyst-style notebooks with clear insights
+
+### Tools
+Python | Pandas | NumPy | SQL | Excel | Matplotlib | Power BI (basic)
+
 
 
 ## 🌐 Socials:
@@ -12,11 +30,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Gauravsin522&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsin522&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gauravsin522&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gauravsin522&limit=5&theme=dark&combine_all_yearly_contributions=true)
